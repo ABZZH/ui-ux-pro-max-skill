@@ -7,11 +7,65 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "d31e234f0c90694a670222cdd1dafa853e051d7066beda389f1097c22dadd461"
     },
+    "freehire-search": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/freehire-search/SKILL.md",
+      "computedHash": "99f23584863765605c8d49c963fd39a7c7dc515378736dc08f8ed44200587e7e"
+    },
     "frontend-design": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/frontend-design/SKILL.md",
       "computedHash": "4eabc66183767153e404b39d1b839b1c37f2d82d86f0a0d7e880a579d8d62336"
+    },
+    "job-application-assistant": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/job-application-assistant/SKILL.md",
+      "computedHash": "6742ec9864b5976d3b69d22922c616013788a98e723739bea3a4531f4b85e93e"
+    },
+    "jobbank-search": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/jobbank-search/SKILL.md",
+      "computedHash": "b94bffa917e0314cfcdc312ecd6b5420024b7b07ec49d1ff3a7260e67294cbe7"
+    },
+    "jobdanmark-search": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/jobdanmark-search/SKILL.md",
+      "computedHash": "53adc5c2b19a629978372f33ebc856535a0ab7749b5bc4c39d8674ca43d5e668"
+    },
+    "jobindex-search": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/jobindex-search/SKILL.md",
+      "computedHash": "7b5ddd162a0e39fe479824b44616083d3d9c76f422d88bad368b31af2b813ee7"
+    },
+    "jobnet-search": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/jobnet-search/SKILL.md",
+      "computedHash": "00bc714d4e91d40443c4547fa7fd37f3a1b0c4a0d1ae55ab4e2c48aef2bac5bc"
+    },
+    "linkedin-search": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/linkedin-search/SKILL.md",
+      "computedHash": "e7273c42f29cc49f3b74696d56021fab03de5b4e0e69c67a253994d2af08978e"
+    },
+    "scrape": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/job-scraper/SKILL.md",
+      "computedHash": "60238b4193b4a4b9e670344d2cc702c524289e248f66428b0a1f5d4d803add61"
+    },
+    "upskill": {
+      "source": "MadsLorentzen/ai-job-search",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/upskill/SKILL.md",
+      "computedHash": "7a1e7bb06893be0832cbbf711ec6c8577f06c66ea1bc1bd44f55f687d190b89c"
     }
   }
 }
