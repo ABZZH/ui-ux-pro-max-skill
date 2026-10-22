@@ -67,6 +67,12 @@
       "skillPath": "artifacts-builder/SKILL.md",
       "computedHash": "8d69507435408416d8d8081517dddcf0a1e0e2bc8e0484863984b19ff8c6cd58"
     },
+    "board-ops": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/board-ops/SKILL.md",
+      "computedHash": "d2cafeb8abd60b4c81ead0685886e6612bc344a10d649f7c372395df74218188"
+    },
     "brand-guidelines": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -223,6 +229,12 @@
       "skillPath": "skills/cli-tunnel/SKILL.md",
       "computedHash": "e93ef682b06e1f05532675bb69b02e1a824faf8ace396d47e53ae9be699b247a"
     },
+    "client-smoke": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/client-smoke/SKILL.md",
+      "computedHash": "c2576475aa36f6052e1fb53b3bd908dfd91719df3fa8087338d95b8e04c50360"
+    },
     "competitive-ads-extractor": {
       "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
@@ -331,6 +343,18 @@
       "skillPath": "invoice-organizer/SKILL.md",
       "computedHash": "3981cc7b74330cb508ffd53e03664e94eb3413b9fbf9fd14a123774de15a8499"
     },
+    "issue-create": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/issue-create/SKILL.md",
+      "computedHash": "f8df21485d53f4fba399d73894785822aec1f46c0d4f3fc124537780218b6c3f"
+    },
+    "issue-triage": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/issue-triage/SKILL.md",
+      "computedHash": "cf164aedc527e5f8416607c6adf01d9c9c9a3cbc7d8c7b95bc38990867d4f4e0"
+    },
     "job-application-assistant": {
       "source": "MadsLorentzen/ai-job-search",
       "sourceType": "github",
@@ -378,6 +402,12 @@
       "sourceType": "github",
       "skillPath": ".agents/skills/linkedin-search/SKILL.md",
       "computedHash": "e7273c42f29cc49f3b74696d56021fab03de5b4e0e69c67a253994d2af08978e"
+    },
+    "local-dev": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/local-dev/SKILL.md",
+      "computedHash": "9db056043b1e7fe8adf03017f5ded6a9b5f355528a4fdc12e6ef14634daf129b"
     },
     "mcp-builder": {
       "source": "anthropics/skills",
@@ -547,17 +577,47 @@
       "skillPath": "skills/pptx/SKILL.md",
       "computedHash": "82eaf5daede5a1779aa17ccf06597cb209a0c2bd41d3a2f18bd45e0301a387fb"
     },
+    "pr-flow": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/pr-flow/SKILL.md",
+      "computedHash": "ab46c018fcd0e80b5e96d9b6081f54f09d9e3116ccd74db680a3a6d9c06834d8"
+    },
+    "pre-push-gate": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/pre-push-gate/SKILL.md",
+      "computedHash": "fdaf1c7902e4dbde4d8cea61e761dde41dc92df8784bf45a077c51d9ee2e8619"
+    },
+    "project-structure": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/project-structure/SKILL.md",
+      "computedHash": "427ac02c6383e9c0334cff1b29117e9d6bb574e42602e066892176fc3d450227"
+    },
     "raffle-winner-picker": {
       "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
       "skillPath": "raffle-winner-picker/SKILL.md",
       "computedHash": "cd97da2fa280d9545b6f60dfc07335663af4932acb58d83d6801a1bb3b8a8aae"
     },
+    "release": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/release/SKILL.md",
+      "computedHash": "ce4743b55218bdfc2618d54be179f53015a2a4cf85fb1c8b9017b1efa557acc4"
+    },
     "scrape": {
       "source": "MadsLorentzen/ai-job-search",
       "sourceType": "github",
       "skillPath": ".claude/skills/job-scraper/SKILL.md",
       "computedHash": "60238b4193b4a4b9e670344d2cc702c524289e248f66428b0a1f5d4d803add61"
+    },
+    "security-advisory": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/security-advisory/SKILL.md",
+      "computedHash": "88e8ebd454bff39189f6cc8754ad0fd32c4bcb5ce3cb305434a222766ac3ed31"
     },
     "skill-creator": {
       "source": "anthropics/skills",
@@ -588,6 +648,12 @@
       "sourceType": "github",
       "skillPath": "template/SKILL.md",
       "computedHash": "38c88f722b574a922311d334a70c2008a2a5b896f06eaa75516d716e5725b26f"
+    },
+    "testing": {
+      "source": "modelcontextprotocol/servers",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/testing/SKILL.md",
+      "computedHash": "0a7d689478bd418aa852a19b8d403bebe78e9cc9546c049fcb983936b264b85a"
     },
     "theme-factory": {
       "source": "anthropics/skills",
