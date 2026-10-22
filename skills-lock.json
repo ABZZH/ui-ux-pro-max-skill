@@ -205,6 +205,12 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "d31e234f0c90694a670222cdd1dafa853e051d7066beda389f1097c22dadd461"
     },
+    "first-run": {
+      "source": "anthropics/anthropic-quickstarts",
+      "sourceType": "github",
+      "skillPath": "computer-use-best-practices/.claude/skills/first-run/SKILL.md",
+      "computedHash": "d1dd9aecc0c63a4f28a731c1b12c327e3e5c1452988af8b87e37a1f69a640991"
+    },
     "freehire-search": {
       "source": "MadsLorentzen/ai-job-search",
       "sourceType": "github",
@@ -498,6 +504,12 @@
       "sourceType": "github",
       "skillPath": ".claude/skills/upskill/SKILL.md",
       "computedHash": "7a1e7bb06893be0832cbbf711ec6c8577f06c66ea1bc1bd44f55f687d190b89c"
+    },
+    "verify": {
+      "source": "anthropics/anthropic-quickstarts",
+      "sourceType": "github",
+      "skillPath": "computer-use-demo/.claude/skills/verify/SKILL.md",
+      "computedHash": "9d788a6281cdc959d574a2c3c304296b152d6d28d5e9ac034b0ac9efed2a95a8"
     },
     "webapp-testing": {
       "source": "ComposioHQ/awesome-claude-skills",
